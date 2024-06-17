@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_User_sendbird-checkbox--checkmark</name>
+   <tag></tag>
+   <elementGuidId>5da77446-c5bf-4aca-b8dd-58a69beaa554</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sendbird-modal-root']/div/div/div[2]/span/div/div/div[7]/label/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>847cb6ed-43f0-472f-8ade-ceace2388440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sendbird-checkbox--checkmark </value>
+      <webElementGuid>f0f68ada-a001-49d8-bd7e-88d445d37eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sendbird-modal-root&quot;)/div[@class=&quot;sendbird-modal&quot;]/div[@class=&quot;sendbird-modal__content&quot;]/div[@class=&quot;sendbird-modal__body&quot;]/span[@class=&quot;sendbird-label sendbird-label--subtitle-1 sendbird-label--color-onbackground-2&quot;]/div[1]/div[@class=&quot;sendbird-create-channel--scroll&quot;]/div[@class=&quot;sendbird-user-list-item&quot;]/label[@class=&quot;sendbird-user-list-item__checkbox&quot;]/label[@class=&quot;sendbird-checkbox&quot;]/span[@class=&quot;sendbird-checkbox--checkmark&quot;]</value>
+      <webElementGuid>486a1fe1-978f-4968-8491-75e285a2c13b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sendbird-modal-root']/div/div/div[2]/span/div/div/div[7]/label/label/span</value>
+      <webElementGuid>208f33f4-fb96-4638-bdeb-a7c03831c128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/label/label/span</value>
+      <webElementGuid>7743322c-c7f2-4560-8d3c-bf52ff03d9cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

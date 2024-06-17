@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_User</name>
+   <tag></tag>
+   <elementGuidId>c2df5be5-618c-40f5-a22a-a74c0ab96bf5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sendbird-modal-root']/div/div/div[2]/span/div/div/div[7]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9d59e822-3f3c-4e4d-a460-0b26b7e6c66f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sendbird-user-list-item__title sendbird-label sendbird-label--subtitle-1 sendbird-label--color-onbackground-1</value>
+      <webElementGuid>54b96712-ecca-487a-a0ef-ad6714484e16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User</value>
+      <webElementGuid>8d27c490-bfde-4a98-9e01-962091f0ca36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sendbird-modal-root&quot;)/div[@class=&quot;sendbird-modal&quot;]/div[@class=&quot;sendbird-modal__content&quot;]/div[@class=&quot;sendbird-modal__body&quot;]/span[@class=&quot;sendbird-label sendbird-label--subtitle-1 sendbird-label--color-onbackground-2&quot;]/div[1]/div[@class=&quot;sendbird-create-channel--scroll&quot;]/div[@class=&quot;sendbird-user-list-item&quot;]/span[@class=&quot;sendbird-user-list-item__title sendbird-label sendbird-label--subtitle-1 sendbird-label--color-onbackground-1&quot;]</value>
+      <webElementGuid>705dfb40-e84e-4cc9-9523-d014294b70e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sendbird-modal-root']/div/div/div[2]/span/div/div/div[7]/span</value>
+      <webElementGuid>37ae7522-2488-4d18-a839-b3a6efa8e148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testuser2'])[1]/following::span[2]</value>
+      <webElementGuid>1a9cedd6-d6dc-4c92-92b5-95f6345d5d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='visa-test'])[1]/following::span[4]</value>
+      <webElementGuid>07390db5-dccf-4ad5-89fb-9bc60c1d2e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[4]/preceding::span[2]</value>
+      <webElementGuid>1503f663-ebb3-417b-820c-025d5f1f6185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[5]/preceding::span[4]</value>
+      <webElementGuid>3b5efd1a-4d1a-41ed-9497-ab666fb7f259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/span</value>
+      <webElementGuid>dc8c74d3-5231-4861-ba28-5d3ea90c36ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'User' or . = 'User')]</value>
+      <webElementGuid>c6b10e81-387d-41c4-aa51-40293d8b5c7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

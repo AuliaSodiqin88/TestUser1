@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Enter message_fill</name>
+   <tag></tag>
+   <elementGuidId>352f146f-3847-47e7-a391-c568654b80ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>c5068aa3-6a3f-44a5-bf5b-0a83e24568ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fill</value>
+      <webElementGuid>c7b5e3e5-7d46-45b0-9372-d653fb9a74d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M55.334 28.926l-24.506 23.34c-5.222 4.973-13.74 4.973-18.962 0-5.149-4.903-5.149-12.797 0-17.7l24.506-23.34c3.138-2.988 8.278-2.988 11.416 0 3.064 2.919 3.064 7.594 0 10.513L23.255 45.077c-1.055 1.005-2.815 1.005-3.87.001-.98-.933-.98-2.39 0-3.325l22.64-21.535c1.067-1.015 1.109-2.703.094-3.77-1.015-1.067-2.703-1.11-3.77-.094L15.709 37.89c-3.189 3.037-3.189 8.015-.001 11.05 3.113 2.966 8.11 2.966 11.224 0l24.533-23.338c5.272-5.021 5.272-13.217 0-18.238-5.197-4.95-13.573-4.95-18.77 0L8.187 30.704c-7.356 7.005-7.356 18.419 0 25.424 7.281 6.935 19.036 6.935 26.318 0l24.506-23.34c1.067-1.016 1.108-2.703.092-3.77-1.015-1.066-2.703-1.108-3.77-.092z</value>
+      <webElementGuid>ea124511-2996-4d3b-9179-2a60e9166e13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(-642 -591) translate(642 591)</value>
+      <webElementGuid>9a9b34b1-8a7e-46ec-a6ca-b18cad4f8cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sendbird-app__wrap&quot;]/div[@class=&quot;sendbird-app__conversation-wrap&quot;]/div[@class=&quot;sendbird-conversation&quot;]/div[@class=&quot;sendbird-conversation__footer&quot;]/div[@class=&quot;sendbird-message-input-wrapper&quot;]/form[@class=&quot;sendbird-message-input-wrapper__message-input&quot;]/div[@class=&quot;sendbird-message-input&quot;]/button[@class=&quot;sendbird-message-input--attach sendbird-iconbutton&quot;]/span[@class=&quot;sendbird-iconbutton__inner&quot;]/div[@class=&quot;sendbird-icon sendbird-icon-attach sendbird-icon-color--content-inverse&quot;]/svg[1]/g[1]/g[1]/g[1]/path[@class=&quot;fill&quot;]</value>
+      <webElementGuid>d84b0df7-0a27-4e63-ba0e-c6c5ae9d0785</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
